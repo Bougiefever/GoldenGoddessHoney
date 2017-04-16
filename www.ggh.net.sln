@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25928.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://www.ggh.net", "http://www.ggh.net", "{F0E65F28-881F-409F-8238-5E31105431C9}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/www.ggh.net"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Projects\GoldenGoddessHoney\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\www.ggh.net\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/www.ggh.net"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Projects\GoldenGoddessHoney\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\www.ggh.net\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\Projects\GoldenGoddessHoney\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E65F28-881F-409F-8238-5E31105431C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E65F28-881F-409F-8238-5E31105431C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
